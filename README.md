@@ -1,7 +1,7 @@
 </html>
 
 [![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I am Vedansh Taraviya.</h1>
+<h1 align="center">Hi 👋, I'm Vedansh Taraviya.</h1>
 <h3 align="center">A Passionate FrontEnd Developer From India.</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vedansh111&label=Profile%20views&color=0e75b6&style=flat" alt="Vedansh111" /> </p>
