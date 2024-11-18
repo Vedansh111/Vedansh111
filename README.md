@@ -23,14 +23,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vedanshtaraviya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maitulya vaghela" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vedanshtaraviya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedansh taraviya" height="30" width="40" /></a>
 </p>
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills </h2>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,redux,node,next,tailwind,materialui,mongodb,typescript,git,github,vite,firebase,postman,cpp,python,vscode,c,vercel,netlify,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,redux,node,next,django,aws,docker,kubernetes,tailwind,materialui,mongodb,typescript,git,github,vite,firebase,postman,cpp,python,vscode,c,vercel,netlify,figma" />
   </a>
 </p>
     
